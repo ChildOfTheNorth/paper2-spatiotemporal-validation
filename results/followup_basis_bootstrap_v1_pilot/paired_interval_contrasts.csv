@@ -1,0 +1,3 @@
+error_scenario,curve_scenario,metric,contrast,paired_replicates,mean_difference,MCSE,MC_lower,MC_upper
+ARMA21_errors,narrow_peak,pointwise_95_coverage,bootstrap minus Wald,20,0.02142857142857143,0.018755593508671314,-0.015332391848424345,0.0581895347055672
+ARMA21_errors,narrow_peak,mean_interval_width,bootstrap minus Wald,20,-0.0018931485329928353,0.002166053742245459,-0.006138613867793935,0.002352316801808264

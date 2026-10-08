@@ -1,0 +1,14 @@
+# Main notebook dependencies inferred from imports; versions are not recorded.
+numpy
+pandas
+scipy
+patsy
+statsmodels
+matplotlib
+requests
+geopandas
+libpysal
+esda
+splot
+scikit-learn
+ipython

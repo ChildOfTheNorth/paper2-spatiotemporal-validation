@@ -1,0 +1,7 @@
+curve_scenario,basis_dimension,projection_RMSE
+smooth_curve,3,3.3621288166832974e-17
+smooth_curve,5,3.8103385410930723e-17
+smooth_curve,7,4.5467654233241146e-17
+narrow_peak,3,0.10717102841898343
+narrow_peak,5,0.07128095450348416
+narrow_peak,7,4.980147401580461e-17
