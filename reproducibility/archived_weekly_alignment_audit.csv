@@ -1,0 +1,13 @@
+location,negative_case_days_removed,negative_admissions_days_removed,negative_occupancy_days_removed,daily_admissions_available,sunday_admissions_available,complete_cases_weeks,complete_occupancy_weeks,paired_weeks_before_lags,below_minimum_before_lags,admissions_weekday_counts_0_Monday
+Belgium,0,0,0,1203,172,239,172,172,False,"{0: 172, 1: 172, 2: 171, 3: 172, 4: 172, 5: 172, 6: 172}"
+Czechia,0,0,0,1618,231,239,230,229,False,"{0: 231, 1: 231, 2: 231, 3: 231, 4: 231, 5: 232, 6: 231}"
+Denmark,0,0,0,1187,170,239,157,157,False,"{0: 169, 1: 169, 2: 170, 3: 170, 4: 170, 5: 169, 6: 170}"
+France,0,0,0,1102,157,181,157,157,False,"{0: 157, 1: 157, 2: 158, 3: 158, 4: 158, 5: 157, 6: 157}"
+Israel,0,0,0,1156,166,239,166,166,False,"{0: 165, 1: 165, 2: 165, 3: 165, 4: 165, 5: 165, 6: 166}"
+Italy,0,0,0,1479,211,239,232,211,False,"{0: 211, 1: 211, 2: 212, 3: 212, 4: 211, 5: 211, 6: 211}"
+Malaysia,0,0,0,1591,226,239,224,224,False,"{0: 228, 1: 227, 2: 227, 3: 227, 4: 228, 5: 228, 6: 226}"
+Netherlands,0,0,0,1001,66,239,66,66,True,"{0: 168, 1: 175, 2: 176, 3: 172, 4: 178, 5: 66, 6: 66}"
+Spain,0,0,0,1039,149,183,149,149,False,"{0: 148, 1: 148, 2: 148, 3: 148, 4: 149, 5: 149, 6: 149}"
+Switzerland,0,0,0,1037,149,239,161,144,False,"{0: 148, 1: 148, 2: 148, 3: 148, 4: 148, 5: 148, 6: 149}"
+United Kingdom,0,0,0,888,127,239,170,127,False,"{0: 126, 1: 127, 2: 127, 3: 127, 4: 127, 5: 127, 6: 127}"
+United States,0,0,0,1375,196,175,196,147,False,"{0: 196, 1: 197, 2: 197, 3: 197, 4: 196, 5: 196, 6: 196}"

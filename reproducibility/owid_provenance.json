@@ -1,0 +1,38 @@
+{
+  "source": "Our World in Data COVID-19 data",
+  "upstream_commit": "f0d53320b19703cf565940d8269181a8423d7032",
+  "upstream_file_commit_timestamp": "2024-08-19T21:06:55Z",
+  "pinned_csv_url": "https://raw.githubusercontent.com/owid/covid-19-data/f0d53320b19703cf565940d8269181a8423d7032/public/data/owid-covid-data.csv",
+  "csv_sha256": "8473d0f0fdf962e1ffbd5b85b18726fc96a49bab109e271186c339725a12b10c",
+  "csv_size_bytes": 98391483,
+  "recovery_retrieval_date_utc": "2026-10-08",
+  "original_retrieval_date": null,
+  "original_raw_file_sha256": null,
+  "interpretation": "Recovered version reproduces archived analytical inputs; original download timestamp and bytewise identity cannot be established.",
+  "verification": {
+    "global_real_country_rows": 395311,
+    "global_real_countries": 237,
+    "date_min": "2020-01-01",
+    "date_max": "2024-08-14",
+    "weekly_rows": 2904,
+    "weekly_countries": 12,
+    "numeric_comparison_rtol": 1e-12,
+    "numeric_comparison_atol": 1e-12,
+    "weekly_values_and_missingness_match": true,
+    "alignment_audit_match": true
+  },
+  "reference_files": {
+    "archived_weekly_aligned_data.csv": {
+      "sha256": "7fc838e04854bcdf38492b1061f4994f07e18feadd74715928f1e40fcde3aeb4",
+      "size_bytes": 127965
+    },
+    "archived_weekly_alignment_audit.csv": {
+      "sha256": "832e067395275c03617c098087aac5626e80ce49478f1394c6b4d1cf32b6d5b5",
+      "size_bytes": 1497
+    },
+    "owid-covid-codebook.csv": {
+      "sha256": "d7e681ccf6694c0020b3936ef9d28004e0eeb904909fde07494ed9adf756067c",
+      "size_bytes": 13763
+    }
+  }
+}
