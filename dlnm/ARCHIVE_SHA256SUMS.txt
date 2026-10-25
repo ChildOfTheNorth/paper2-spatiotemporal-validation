@@ -1,0 +1,13 @@
+# SHA-256 manifest for *local* full DLNM release candidate (2026-10-25)
+# This manifest identifies files in Paper2_DLNM_reproducibility_v20261025.zip.
+# Full binary results and supplement are NOT yet hosted in this repository.
+9eb29a6765017f9fae4ca50b7366a22d923e5a4fc99ef901672fda2755a4a42e  DLNM_supplementary_methods_results.docx
+d9baf157652e69ead3cadb1fc920eea7b18a39ca6a1fb14e66f69ba153dd003d  Paper2_DLNM_US_multistart_FULL.ipynb
+0cdafef07d8b3b1fe9930f23e9cb01d02e09350fdd18bcabfa5fd6c723b3e9c3  Paper2_DLNM_US_multistart_FULL.py
+d3f269a6cd4cb1d510780874ade3819a854b229e204353c4bc77d67947437daa  Paper2_DLNM_outputs_20261025.zip
+9cd49ceedf7e65956491ecb31e6288d088431de0d6603d062a4eea392535210a  Paper2_original_primary_archived_curves.csv
+059404d769496bf9220fefe2fe9e6f097c12152acfc0bdda0dbc368cacdf9eb0  README.md
+97667658f8bd52469fe71d9d7360f6b4dae9e5856de8983cf2f74847f97aa181  verify_release.py
+
+# WARNING: GitHub text source upload may normalize exact source bytes.
+# Verify source checksums against the archive before claiming binary-identical provenance.
